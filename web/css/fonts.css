@@ -1,0 +1,15 @@
+/* cyrillic-ext */
+body {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Mono', monospace;  
+    font-weight: 400;
+    src:  url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono:ital,wght@0,300;0,500;1,300&display=swap');
+    unicode-range: U+0460-052F, U+20B4, U+2DE0-2DFF, U+A640-A69F;
+  }
+
+  h1{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    src:  url('https://fonts.googleapis.com/css2?family=Roboto&family=Roboto+Mono:wght@500&display=swap');
+
+  }
